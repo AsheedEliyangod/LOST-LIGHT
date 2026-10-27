@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: e16f66114d279404c9e44c84f3af34ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6485470432556553154
+    second: Neon Crystal Joystick Assets_0
+  - first:
+      213: -8478643072407641390
+    second: Neon Crystal Joystick Assets_1
+  - first:
+      213: -3139273296239036406
+    second: Neon Crystal Joystick Assets_2
+  - first:
+      213: -8948086922119015697
+    second: Neon Crystal Joystick Assets_3
+  - first:
+      213: -3988291856579699739
+    second: Neon Crystal Joystick Assets_4
+  - first:
+      213: -4272662946281200710
+    second: Neon Crystal Joystick Assets_5
+  - first:
+      213: -8233741861989235964
+    second: Neon Crystal Joystick Assets_6
+  - first:
+      213: -4543000228757091562
+    second: Neon Crystal Joystick Assets_7
+  - first:
+      213: 3373442637350029855
+    second: Neon Crystal Joystick Assets_8
+  - first:
+      213: 420652367086440724
+    second: Neon Crystal Joystick Assets_9
+  - first:
+      213: 4699392439834131133
+    second: Neon Crystal Joystick Assets_10
+  - first:
+      213: -7682099011349784932
+    second: Neon Crystal Joystick Assets_11
+  - first:
+      213: -645113020534105965
+    second: Neon Crystal Joystick Assets_12
+  - first:
+      213: 1812082102471509147
+    second: Neon Crystal Joystick Assets_13
+  - first:
+      213: 7493903544821066622
+    second: Neon Crystal Joystick Assets_14
+  - first:
+      213: 5711869092617847062
+    second: Neon Crystal Joystick Assets_15
+  - first:
+      213: -2987414325737971471
+    second: Neon Crystal Joystick Assets_16
+  - first:
+      213: -6100766093157026625
+    second: Neon Crystal Joystick Assets_17
+  - first:
+      213: 921027295744433950
+    second: Neon Crystal Joystick Assets_18
+  - first:
+      213: 803996463678974579
+    second: Neon Crystal Joystick Assets_19
+  - first:
+      213: 1941135346209361536
+    second: Neon Crystal Joystick Assets_20
+  - first:
+      213: -4624788815780672935
+    second: Neon Crystal Joystick Assets_21
+  - first:
+      213: 5222778777863439373
+    second: Neon Crystal Joystick Assets_22
+  - first:
+      213: -284808396505057031
+    second: Neon Crystal Joystick Assets_23
+  - first:
+      213: 8201370089672673416
+    second: Neon Crystal Joystick Assets_24
+  - first:
+      213: -3755392749959837844
+    second: Neon Crystal Joystick Assets_25
+  - first:
+      213: 3212410463472863038
+    second: Neon Crystal Joystick Assets_26
+  - first:
+      213: -7466408373782323778
+    second: Neon Crystal Joystick Assets_27
+  - first:
+      213: 3969682032923986180
+    second: Neon Crystal Joystick Assets_28
+  - first:
+      213: -7253858628465742709
+    second: Neon Crystal Joystick Assets_29
+  - first:
+      213: -565419369992677067
+    second: Neon Crystal Joystick Assets_30
+  - first:
+      213: -8704161696269901285
+    second: Neon Crystal Joystick Assets_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 985
+        height: 1020
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c315d53ff4010a50800000000000000
+      internalID: 6485470432556553154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1015
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e0d32c0fc55a80800000000000000
+      internalID: -8478643072407641390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_2
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 691
+        width: 305
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087dc4d19f0f64d0800000000000000
+      internalID: -3139273296239036406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_3
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 767
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe217c37a5202d380800000000000000
+      internalID: -8948086922119015697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_4
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 741
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebdbf3ffadb6a8c0800000000000000
+      internalID: -3988291856579699739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_5
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 719
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab36fe910b374b4c0800000000000000
+      internalID: -4272662946281200710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_6
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 743
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4034ed7966fdbbd80800000000000000
+      internalID: -8233741861989235964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_7
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 765
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b4a6e9c5504f0c0800000000000000
+      internalID: -4543000228757091562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_8
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 725
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac7659430e0de20800000000000000
+      internalID: 3373442637350029855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_9
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 705
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4115d12691576d500800000000000000
+      internalID: 420652367086440724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_10
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 767
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba387c8688973140800000000000000
+      internalID: 4699392439834131133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_11
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 686
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96dd1396a3b36590800000000000000
+      internalID: -7682099011349784932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_12
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 550
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398d51330291c07f0800000000000000
+      internalID: -645113020534105965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_13
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 174
+        width: 512
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9448a5421fc52910800000000000000
+      internalID: 1812082102471509147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_14
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 286
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba912d191bff760800000000000000
+      internalID: 7493903544821066622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_15
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 301
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611050d4da2a44f40800000000000000
+      internalID: 5711869092617847062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 271
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a97daf729a86d0800000000000000
+      internalID: -2987414325737971471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 256
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4b0afbf89b55ba0800000000000000
+      internalID: -6100766093157026625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_18
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 147
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f1947127528cc00800000000000000
+      internalID: 921027295744433950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_19
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 149
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a6142268e582b00800000000000000
+      internalID: 803996463678974579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_20
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 161
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e83c3105c40fa10800000000000000
+      internalID: 1941135346209361536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_21
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 113
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a8132431371dfb0800000000000000
+      internalID: -4624788815780672935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_22
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 133
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04cff280a90b7840800000000000000
+      internalID: 5222778777863439373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 129
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f87449b5482c0cf0800000000000000
+      internalID: -284808396505057031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_24
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 97
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880472d4ae11d170800000000000000
+      internalID: 8201370089672673416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_25
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 63
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67019ad03a22ebc0800000000000000
+      internalID: -3755392749959837844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_26
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 95
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e374c04eb46c49c20800000000000000
+      internalID: 3212410463472863038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_27
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd3bc842df16890800000000000000
+      internalID: -7466408373782323778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_28
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 15
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4094fa3d6c4271730800000000000000
+      internalID: 3969682032923986180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_29
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 62
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca56f820e155b90800000000000000
+      internalID: -7253858628465742709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_30
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5391676241a3728f0800000000000000
+      internalID: -565419369992677067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Crystal Joystick Assets_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12654acd0b943780800000000000000
+      internalID: -8704161696269901285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 88f0b7487aad9b14cb2eba72e9dfef74
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neon Crystal Joystick Assets_0: 6485470432556553154
+      Neon Crystal Joystick Assets_1: -8478643072407641390
+      Neon Crystal Joystick Assets_10: 4699392439834131133
+      Neon Crystal Joystick Assets_11: -7682099011349784932
+      Neon Crystal Joystick Assets_12: -645113020534105965
+      Neon Crystal Joystick Assets_13: 1812082102471509147
+      Neon Crystal Joystick Assets_14: 7493903544821066622
+      Neon Crystal Joystick Assets_15: 5711869092617847062
+      Neon Crystal Joystick Assets_16: -2987414325737971471
+      Neon Crystal Joystick Assets_17: -6100766093157026625
+      Neon Crystal Joystick Assets_18: 921027295744433950
+      Neon Crystal Joystick Assets_19: 803996463678974579
+      Neon Crystal Joystick Assets_2: -3139273296239036406
+      Neon Crystal Joystick Assets_20: 1941135346209361536
+      Neon Crystal Joystick Assets_21: -4624788815780672935
+      Neon Crystal Joystick Assets_22: 5222778777863439373
+      Neon Crystal Joystick Assets_23: -284808396505057031
+      Neon Crystal Joystick Assets_24: 8201370089672673416
+      Neon Crystal Joystick Assets_25: -3755392749959837844
+      Neon Crystal Joystick Assets_26: 3212410463472863038
+      Neon Crystal Joystick Assets_27: -7466408373782323778
+      Neon Crystal Joystick Assets_28: 3969682032923986180
+      Neon Crystal Joystick Assets_29: -7253858628465742709
+      Neon Crystal Joystick Assets_3: -8948086922119015697
+      Neon Crystal Joystick Assets_30: -565419369992677067
+      Neon Crystal Joystick Assets_31: -8704161696269901285
+      Neon Crystal Joystick Assets_4: -3988291856579699739
+      Neon Crystal Joystick Assets_5: -4272662946281200710
+      Neon Crystal Joystick Assets_6: -8233741861989235964
+      Neon Crystal Joystick Assets_7: -4543000228757091562
+      Neon Crystal Joystick Assets_8: 3373442637350029855
+      Neon Crystal Joystick Assets_9: 420652367086440724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

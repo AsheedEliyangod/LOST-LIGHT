@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 98f56db8427c82e4ea441cc912666fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5391789599211756374
+    second: Magical Fantasy HUD Button Set_0
+  - first:
+      213: 7140523389373557248
+    second: Magical Fantasy HUD Button Set_1
+  - first:
+      213: -4687209731347221045
+    second: Magical Fantasy HUD Button Set_2
+  - first:
+      213: 5396112257200549228
+    second: Magical Fantasy HUD Button Set_3
+  - first:
+      213: -217167666801599630
+    second: Magical Fantasy HUD Button Set_4
+  - first:
+      213: 835572010280133664
+    second: Magical Fantasy HUD Button Set_5
+  - first:
+      213: -6942956054745290847
+    second: Magical Fantasy HUD Button Set_6
+  - first:
+      213: -1552755109573502692
+    second: Magical Fantasy HUD Button Set_7
+  - first:
+      213: 8293590613922215231
+    second: Magical Fantasy HUD Button Set_8
+  - first:
+      213: -8527374165283831392
+    second: Magical Fantasy HUD Button Set_9
+  - first:
+      213: 4170435682838821089
+    second: Magical Fantasy HUD Button Set_10
+  - first:
+      213: 6028635371024579044
+    second: Magical Fantasy HUD Button Set_11
+  - first:
+      213: 2871150471033975847
+    second: Magical Fantasy HUD Button Set_12
+  - first:
+      213: 5991343158680824537
+    second: Magical Fantasy HUD Button Set_13
+  - first:
+      213: -4516162554809784205
+    second: Magical Fantasy HUD Button Set_14
+  - first:
+      213: -2259827953776672140
+    second: Magical Fantasy HUD Button Set_15
+  - first:
+      213: -6453457634168856290
+    second: Magical Fantasy HUD Button Set_16
+  - first:
+      213: 5452995347698657195
+    second: Magical Fantasy HUD Button Set_17
+  - first:
+      213: 7233692278828878293
+    second: Magical Fantasy HUD Button Set_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_0
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 393
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b99a4d21c73da40800000000000000
+      internalID: 5391789599211756374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 551
+        width: 415
+        height: 434
+      alignment: 9
+      pivot: {x: 0.5255777, y: 0.4874764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aaaf5c03c381360800000000000000
+      internalID: 7140523389373557248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 967
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc57b4f459fa3feb0800000000000000
+      internalID: -4687209731347221045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 527
+        width: 437
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6de1921287d2ea40800000000000000
+      internalID: 5396112257200549228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_4
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 381
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b179b58277cfcf0800000000000000
+      internalID: -217167666801599630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_5
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 743
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024a109f05c889b00800000000000000
+      internalID: 835572010280133664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_6
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 677
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a762c9e04aa5af90800000000000000
+      internalID: -6942956054745290847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 625
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d2b66471837ae0800000000000000
+      internalID: -1552755109573502692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 575
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35f857d8b0c81370800000000000000
+      internalID: 8293590613922215231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 559
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a10a6b606ea8a980800000000000000
+      internalID: -8527374165283831392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 373
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8b83a582d50e930800000000000000
+      internalID: 4170435682838821089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 87
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9764acde30aa350800000000000000
+      internalID: 6028635371024579044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724fca2342068d720800000000000000
+      internalID: 2871150471033975847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 62
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da23acfbd6852350800000000000000
+      internalID: 5991343158680824537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 387
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37864a4851e5351c0800000000000000
+      internalID: -4516162554809784205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472c4a9f27a73a0e0800000000000000
+      internalID: -2259827953776672140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_16
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 33
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11255e3976b076a0800000000000000
+      internalID: -6453457634168856290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_17
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 15
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7af65a06eecab40800000000000000
+      internalID: 5452995347698657195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Fantasy HUD Button Set_18
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 49
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c4164dcc336460800000000000000
+      internalID: 7233692278828878293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5efbb0b17b54320489121791c8f43813
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magical Fantasy HUD Button Set_0: 5391789599211756374
+      Magical Fantasy HUD Button Set_1: 7140523389373557248
+      Magical Fantasy HUD Button Set_10: 4170435682838821089
+      Magical Fantasy HUD Button Set_11: 6028635371024579044
+      Magical Fantasy HUD Button Set_12: 2871150471033975847
+      Magical Fantasy HUD Button Set_13: 5991343158680824537
+      Magical Fantasy HUD Button Set_14: -4516162554809784205
+      Magical Fantasy HUD Button Set_15: -2259827953776672140
+      Magical Fantasy HUD Button Set_16: -6453457634168856290
+      Magical Fantasy HUD Button Set_17: 5452995347698657195
+      Magical Fantasy HUD Button Set_18: 7233692278828878293
+      Magical Fantasy HUD Button Set_2: -4687209731347221045
+      Magical Fantasy HUD Button Set_3: 5396112257200549228
+      Magical Fantasy HUD Button Set_4: -217167666801599630
+      Magical Fantasy HUD Button Set_5: 835572010280133664
+      Magical Fantasy HUD Button Set_6: -6942956054745290847
+      Magical Fantasy HUD Button Set_7: -1552755109573502692
+      Magical Fantasy HUD Button Set_8: 8293590613922215231
+      Magical Fantasy HUD Button Set_9: -8527374165283831392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
